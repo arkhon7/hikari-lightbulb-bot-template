@@ -12,5 +12,5 @@ This template comes with a simple script `create_plugin.py` that creates a templ
 To create plugin, run
 
 ```Python
-python.exe create_plugin.py <name of your plugin>
+python.exe -m create_plugin <name of your plugin>
 ```
