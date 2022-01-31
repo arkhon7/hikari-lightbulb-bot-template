@@ -10,12 +10,12 @@ You can run the bot by executing `main.py` file
 ```Python
 .
 ├── plugins/
-│   ├── your_plugin/
+│   ├── foobar/
 │   │   ├── __init__.py
 │   │   ├── plugin.py ------- main file of the plugin
-│   │   ├── your_file1.py 
-│   │   ├── your_file2.json
-│   │   └── your_file3.txt
+│   │   ├── foo.py 
+│   │   ├── bar.json
+│   │   └── baz.txt
 │   └── __init__.py
 └── main.py ----------------- execute this file to run bot
 ```
